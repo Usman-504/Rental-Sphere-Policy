@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Rental Sphere</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        ul {
+            margin-left: 20px;
+        }
+        .contact {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p><strong>Effective Date:</strong> [Insert Date]</p>
+        
+        <p>Welcome to <strong>Rental Sphere</strong>! Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal information when you use our app to rent cars, houses, and cameras.</p>
+
+        <h2>1. Information We Collect</h2>
+        <ul>
+            <li><strong>Personal Information:</strong> Name, email, phone number, address, and payment details when you sign up or make a rental.</li>
+            <li><strong>Usage Data:</strong> Information about how you interact with our app, such as search history, rental preferences, and device details.</li>
+            <li><strong>Location Data:</strong> With your permission, we may collect location data to improve search results and rental experiences.</li>
+            <li><strong>Media and Files:</strong> If you upload images (such as property or vehicle photos), we collect and store them securely.</li>
+        </ul>
+
+        <h2>2. How We Use Your Information</h2>
+        <ul>
+            <li>Provide, manage, and improve our rental services.</li>
+            <li>Facilitate secure transactions and verify user identity.</li>
+            <li>Personalize your experience and recommend relevant rentals.</li>
+            <li>Communicate with you regarding bookings, updates, or customer support.</li>
+            <li>Prevent fraud, ensure security, and comply with legal requirements.</li>
+        </ul>
+
+        <h2>3. Information Sharing</h2>
+        <p>We do <strong>not</strong> sell or rent your personal information. However, we may share data with:</p>
+        <ul>
+            <li><strong>Service Providers:</strong> Payment processors and cloud storage services to facilitate secure transactions.</li>
+            <li><strong>Law Enforcement:</strong> If required by law or in case of fraud prevention.</li>
+            <li><strong>Other Users:</strong> Basic profile details (e.g., name and contact) may be shared with rental owners or renters to facilitate bookings.</li>
+        </ul>
+
+        <h2>4. Data Security</h2>
+        <p>We take data security seriously and implement encryption, secure authentication, and other protective measures to safeguard your personal information from unauthorized access or misuse.</p>
+
+        <h2>5. Your Rights & Choices</h2>
+        <ul>
+            <li>Access, update, or delete your personal information.</li>
+            <li>Disable location tracking from your device settings.</li>
+            <li>Opt-out of marketing communications at any time.</li>
+        </ul>
+
+        <h2>6. Third-Party Links</h2>
+        <p>Our app may contain links to third-party services. We are not responsible for their privacy practices, so we encourage you to review their policies separately.</p>
+
+        <h2>7. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy from time to time. Any changes will be posted in the app, and continued use of our services implies acceptance of the updated policy.</p>
+
+        <h2>8. Contact Us</h2>
+        <p class="contact">If you have any questions about this Privacy Policy or your data, please contact us at:</p>
+        <p>📧 <strong>[Your Email]</strong></p>
+        <p>📍 <strong>[Your Business Address]</strong></p>
+    </div>
+
+</body>
+</html>

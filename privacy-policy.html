@@ -17,20 +17,58 @@
             color: #2c3e50;
         }
         .container {
-           width: 90%;  /* Use 90% of the viewport width */
-    max-width: 1200px;  /* Set a maximum width for large screens */
-    margin: 40px auto;
-    background: #ffffff;
-    padding: 30px;
-    border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    background: #fff;
+            width: 90%;  /* Use 90% of the viewport width */
+            max-width: 1200px;  /* Set a maximum width for large screens */
+            margin: 40px auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            background: #fff;
         }
         ul {
             margin-left: 20px;
         }
         .contact {
             font-weight: bold;
+        }
+
+        /* Responsive design: smaller screen adjustments */
+        @media (max-width: 768px) {
+            body {
+                margin: 20px;
+                padding: 10px;
+            }
+            .container {
+                width: 95%;
+                padding: 20px;
+                margin: 20px auto;
+            }
+            h1 {
+                font-size: 24px;
+            }
+            h2 {
+                font-size: 20px;
+            }
+            ul {
+                margin-left: 15px;
+            }
+        }
+
+        /* Further responsive adjustments for very small screens */
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 20px;
+            }
+            h2 {
+                font-size: 18px;
+            }
+            p {
+                font-size: 14px;
+            }
+            ul {
+                margin-left: 10px;
+            }
         }
     </style>
 </head>
